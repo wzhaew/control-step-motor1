@@ -1,0 +1,10 @@
+
+VW.MDB         EQU    00H
+ERROR          EQU    00H
+
+
+        ORG    0000H
+        MOV    R7, A
+
+        END
+
